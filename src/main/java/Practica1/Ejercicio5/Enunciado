@@ -17,6 +17,6 @@ En este lugar se tienen 3 especialidades :
  - SaborRefresco: CocaCola
  - Guarniciones:fideo
 
-Entran 1 cliente y pide 1 de cada especialidad.
+Entra 1 cliente y pide 1 de cada especialidad.
 
 Patron de diseño a usar -> Builder
