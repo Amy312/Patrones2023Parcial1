@@ -1,7 +1,6 @@
 package Practica1.Ejercicio8;
 
-import Practica1.Ejercicio1.Cajero;
-import Practica1.Ejercicio1.Ventanilla;
+
 
 public class Cuenta {
 
